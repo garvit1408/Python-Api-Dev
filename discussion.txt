@@ -1,0 +1,6 @@
+1 - teams -> { 'jitni bhe teams aaj tak ipl mai kheli hai }
+2 - player -> { har player ka naam jisne ipl khela hai }
+3 - teamvsteam-> { }
+4 - team_record -> { }
+5 - batsman_record -> {}
+6 - bowling_record -> {}
